@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "libraries": []
+  },
+  "dataStudio": {
+    "name": "Telepathy - Global Parameters",
+    "logoUrl": "https://i.postimg.cc/sX3Vg3Kv/DALL-E-2024-08-10-00-36.jpg",
+    "company": "Looker Studio MasterClass",
+    "companyUrl": "https://lookerstudiomasterclass.com/",
+    "addonUrl": "https://lookerstudiomasterclass.com/",
+    "supportUrl": "https://lookerstudiomasterclass.com/",
+    "description": "Log input parameters and timestamps to a Google Sheet.",
+    "sources": [
+      "parameters"
+    ],
+    "templates": {
+      "default": "8a2665ad-f1df-4e71-986e-dbf54ab68262"
+    }
+  },
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/script.external_request",
+    "https://www.googleapis.com/auth/spreadsheets.readonly",
+    "https://www.googleapis.com/auth/spreadsheets"
+  ],
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
