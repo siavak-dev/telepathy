@@ -63,7 +63,7 @@ You now have an interactive report! Any value you enter into the **`input_parame
 
 ---
 
-## Use Cases: Transforming Looker Studio
+## Telepathy Use Cases
 
 This connector unlocks capabilities that turn Looker Studio into a powerful, interactive hub for your team.
 
